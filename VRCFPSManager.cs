@@ -12,7 +12,7 @@ using VRCUnlocked;
 
 namespace VRCFPSManager
 {
-    [VRCModInfo("VRCFPSManager", "0.1.0", "AtiLion")]
+    [VRCModInfo("VRCFPSManager", "0.1.1", "AtiLion")]
     internal class VRCFPSManager : VRCMod
     {
         #region Config Variables
